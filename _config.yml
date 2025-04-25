@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: marvel-tva-theme
+description: "A theme that recreates the retro terminal-like computers from the series, Loki"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
